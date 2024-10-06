@@ -9,8 +9,11 @@ This project implements a multilingual text summarization application using Natu
 **Multiple Summarization Techniques**: 
 Implements:
 **Latent Semantic Analysis (LSA)**
+
 **TF-IDF (Term Frequency-Inverse Document Frequency)**
+
 **Frequency-based summarization**
+
 **Length-based summarization**
 
 **User-Friendly Interface**: Built using Tkinter for easy interaction.
